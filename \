@@ -1,0 +1,33 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .mvn/wrapper/maven-wrapper.jar
+#	new file:   .mvn/wrapper/maven-wrapper.properties
+#	new file:   mvnw
+#	new file:   mvnw.cmd
+#	new file:   pom.xml
+#	new file:   src/main/java/com/example/springsecurity/SpringSecurityApplication.java
+#	new file:   src/main/java/com/example/springsecurity/auth/ApplicationUser.java
+#	new file:   src/main/java/com/example/springsecurity/auth/ApplicationUserDao.java
+#	new file:   src/main/java/com/example/springsecurity/auth/ApplicationUserService.java
+#	new file:   src/main/java/com/example/springsecurity/auth/FakeApplicationUserDaoService.java
+#	new file:   src/main/java/com/example/springsecurity/controller/TemplateController.java
+#	new file:   src/main/java/com/example/springsecurity/security/ApplicationSecurityConfig.java
+#	new file:   src/main/java/com/example/springsecurity/security/ApplicationUserPermission.java
+#	new file:   src/main/java/com/example/springsecurity/security/ApplicationUserRole.java
+#	new file:   src/main/java/com/example/springsecurity/security/PasswordConfig.java
+#	new file:   src/main/java/com/example/springsecurity/student/Student.java
+#	new file:   src/main/java/com/example/springsecurity/student/StudentController.java
+#	new file:   src/main/java/com/example/springsecurity/student/StudentManagementController.java
+#	new file:   src/main/resources/application.properties
+#	new file:   src/main/resources/static/index.html
+#	new file:   src/main/resources/templates/courses.html
+#	new file:   src/main/resources/templates/login.html
+#	new file:   src/test/java/com/example/springsecurity/SpringSecurityApplicationTests.java§
